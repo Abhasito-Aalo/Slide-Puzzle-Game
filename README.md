@@ -4,7 +4,7 @@ SLIDE PUZZLE
 How to Play Slide Puzzle
 The board is a 4x4 grid with fifteen tiles (numbered 1 through 15 going left to right) and one blank space. The tiles start out in random positions, and the player must slide tiles around until the tiles are back in their original order.
 Source Code to Slide Puzzle
-This source code can be downloaded from  If you get any error messages, look at the line number that is mentioned in the error message and check your code for any types.
+This source code can be downloaded from https://github.com/Abhasito-Aalo/Slide-Puzzle-Game/blob/master/Slide%20Puzzle.py. If you get any error messages, look at the line number that is mentioned in the error message and check your code for any types.
   1. # Slide Puzzle
   2.
   6. import pygame, sys, random
@@ -787,6 +787,3 @@ You might also come up with some clever tricks that do save a few bytes of memor
 Try to avoid the temptation to do this. Usually, these tricks reduce code readability and make it harder to debug your programs. Modern computers have billions of bytes of memory, and saving a few bytes here and there really isn’t worth making the code more confusing for human programmers.
 Nobody Cares About a Few Million Nanoseconds
 Similarly, there are times when you can rearrange your code in some way to make it slightly faster by a few nanoseconds. These tricks also usually make the code harder to read. When you consider that several billion nanoseconds have passed in the time it takes you to read this sentence, saving a few nanoseconds of execution time in your program won’t be noticed by the player.
-Summary
-
-
