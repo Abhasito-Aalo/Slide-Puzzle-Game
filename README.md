@@ -6,7 +6,7 @@ The board is a 4x4 grid with fifteen tiles (numbered 1 through 15 going left to 
 Source Code to Slide Puzzle
 This source code can be downloaded from  If you get any error messages, look at the line number that is mentioned in the error message and check your code for any types.
   1. # Slide Puzzle
-  2. # By Abhasito Aalo
+  2.
   6. import pygame, sys, random
   7. from pygame.locals import *
   8.
@@ -339,10 +339,6 @@ Second Verse, Same as the First
 
 Much of the code in Wormy is similar to the previous games we’ve looked at, especially the constants being set at the start of the code.
   1. # Slide Puzzle
-  2. # By Al Sweigart al@inventwithpython.com
-  3. # http://inventwithpython.com/pygame
-  4. # Creative Commons BY-NC-SA 3.0 US
-  5.
   6. import pygame, sys, random
   7. from pygame.locals import *
   8.
